@@ -1,0 +1,15 @@
+.reveal img.max {
+  max-height: 500px; }
+
+.reveal img.hat {
+  background: none;
+  border: none;
+  box-shadow: none;
+  height: 350px; }
+
+.reveal .flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-around; }
+  .reveal .flex > * {
+    margin: 0 40px; }
